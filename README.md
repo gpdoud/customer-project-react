@@ -1,3 +1,11 @@
+# React front-end to CustomerServer
+
+When this project is cloned, it can be started by:
+
+`npm start dev` (node is required to be installed)
+
+The URI has been modified to support the CustomerServer WebAPI.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
